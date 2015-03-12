@@ -2,8 +2,11 @@
 用StaggeredGridView和Volley实现的有二级缓存和分页效果的瀑布流
 
 ## 项目概述
-本项目是通过网络加载库volley和瀑布流框架StaggeredGridView实现的瀑布流范例，可以下拉刷新，滚动到底部后可以加载更多，一次性加载的数据数由服务器指定。
-
+本项目是通过网络加载库volley和瀑布流框架StaggeredGridView实现的瀑布流范例，可以下拉刷新，滚动到底部后可以加载更多，一次性加载的数据数由服务器指定。  
+![](https://github.com/tianzhijiexian/KaleWaterFall/blob/master/1.png?raw=true)  
+![](https://github.com/tianzhijiexian/KaleWaterFall/blob/master/2.png?raw=true)  
+![](https://github.com/tianzhijiexian/KaleWaterFall/blob/master/3.png?raw=true)  
+![](https://github.com/tianzhijiexian/KaleWaterFall/blob/master/4.png?raw=true)  
 ## 项目优点  
 - 有磁盘缓存和内存缓存
 - 有稳定的网络请求机制
